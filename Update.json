@@ -1,15 +1,7 @@
 {
-  "data": {
-    "items": [
-      {
-        "devicetype": "FOC",
-        "hasnew": true,
-        "version": "KBE38D03",
-        "date": "1659400295069",
-        "size": "27792",
-        "url": "https://github.com/scooterhacking/e_scooter/raw/main/ALPHA/X5_PRO/US/OTA_ALPHA_KBE38D03_32KPH_MAX_220718.bin",
-        "md5": "f0c7a3e5a7278f21787482d22466b5cf"
-      }
-    ]
-  }
+    "max_speed": 30,
+    "cruise_control": true,
+    "quick_lock": true,
+    "energy_recovery": 2,
+    "acceleration_level": "high"
 }
