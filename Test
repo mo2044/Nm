@@ -1,1 +1,15 @@
-
+{
+  "data": {
+    "items": [
+      {
+        "devicetype": "FOC",
+        "hasnew": true,
+        "version": "TEST_ONLY",
+        "date": "1746403200000",
+        "size": "10000",
+        "url": "https://example.com/firmware.bin",
+        "md5": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+      }
+    ]
+  }
+}
