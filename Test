@@ -4,10 +4,10 @@
       {
         "devicetype": "FOC",
         "hasnew": true,
-        "version": "TEST_ONLY",
-        "date": "1746403200000",
-        "size": "10000",
-        "url": "https://example.com/firmware.bin",
+        "version": "KQI300P_TEST_ONLY",
+        "date": "1748625600000",
+        "size": "27608",
+        "url": "https://raw.githubusercontent.com/mo2044/Nm/main/TEST_KQI300P.bin",
         "md5": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
       }
     ]
