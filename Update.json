@@ -1,7 +1,15 @@
 {
-    "max_speed": 30,
-    "cruise_control": true,
-    "quick_lock": true,
-    "energy_recovery": 2,
-    "acceleration_level": "high"
+  "data": {
+    "items": [
+      {
+        "devicetype": "FOC",
+        "hasnew": true,
+        "version": "KQI300P_MOD_01",
+        "date": "1746403200000",
+        "size": "27608",
+        "url": "https://yourhost.com/path/to/KQI300P.bin",
+        "md5": "f267201d75b73be6adc948750c34a3ab"
+      }
+    ]
+  }
 }
