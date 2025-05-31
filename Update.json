@@ -4,11 +4,11 @@
       {
         "devicetype": "FOC",
         "hasnew": true,
-        "version": "KBE01D03-28KPH",
-        "date": "1737504000000",
-        "size": "29696",
-        "url": "https://github.com/mo2044/Nm/raw/main/KBE01M02_28KPH.bin",
-        "md5": "2d8f006878d36e8f6f0cdc86ba5f1a3c"
+        "version": "K3E13J23-28KPH",
+        "date": "1738262400000",
+        "size": "85931",
+        "url": "https://raw.githubusercontent.com/mo2044/Nm/main/OTA_NIU_K3E13J23_28KPH_MODIFIED.bin",
+        "md5": "b91812efab46c79fe5b01d138630a24c"
       }
     ]
   }
